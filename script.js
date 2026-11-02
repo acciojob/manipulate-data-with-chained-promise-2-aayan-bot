@@ -22,6 +22,6 @@ async function display(params) {
     setTimeout(() => {
         div.innerHTML=""
         div.innerHTML = mulbytwo.join(",");
-    }, 4000);
+    }, 2000);
 }
 display()
